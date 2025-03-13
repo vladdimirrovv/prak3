@@ -1,6 +1,6 @@
 ## Структура проекта
 ```
-pr3_sysprog/
+prak3/
 ├── task1/
 │   └── main.c
 ├── task2/
